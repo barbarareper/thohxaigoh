@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neepohphi.xn--holycrpe-p1a.eu/sitemap.xml
